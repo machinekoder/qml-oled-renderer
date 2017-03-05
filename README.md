@@ -1,6 +1,6 @@
 # QML OLED Renderer
 
-Renders a QML application to a **SSD1309 OLED display**.
+Renders a QML application to a **SSD1306 OLED display**.
 
 ![OLED Display](./doc/OLED-qml.jpg)
 
@@ -33,7 +33,7 @@ Item {
 
 Tested on the [CHIP single board computer](https://getchip.com/) conected to TWI2.
 
-![CHIP Setup](./doc/CHIP-SSD1309.jpg)
+![CHIP Setup](./doc/CHIP-SSD1306.jpg)
 
 ## Install
 
